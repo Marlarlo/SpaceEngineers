@@ -240,3 +240,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/SpaceEngineers/BridgeMoving (old).cs
+/SpaceEngineers/Class1.cs
+/SpaceEngineers/Oxygen Lockdown (from WS).cs
+/SpaceEngineers/Oxygen Lockdown (working both lights) (Rhys).cs
